@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="smallmargin">8dp</dimen>
+    <dimen name="bigmargin">60dp</dimen>
+    <dimen name="textBold">24sp</dimen>
+    <dimen name="headingtext">14sp</dimen>
+    <dimen name="smalltext">12sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

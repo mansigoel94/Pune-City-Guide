@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Pune Guide</string>
+    <string name="home">Welcome to Pune</string>
+    <string name="category1">Hotel</string>
+    <string name="category2">Restaurants</string>
+    <string name="category3">Things to do</string>
+    <string name="category4">About</string>
+    <string name="category5">Emergency numbers !</string>
+
+    <string name="title_activity_category">Category</string>
+    <string name="title_activity_emergency">Emergency</string>
+    <string name="emergencynumbers">Important telephone numbers</string>
+
+    <string name="aboutdetails">
+        Pune spelt Poona during British rule is the second largest city in the Indian state of Maharashtra
+        and the ninth most populous city in the country. Situated 560 metres (1,837 feet) above sea level on the Deccan plateau on the right bank of the Mutha river, Pune is the administrative headquarters of Pune district and was once the centre of power of the Maratha Empire established by Shivaji Maharaj. In the 18th century, Pune was the political centre of the Indian subcontinent, as the seat of the Peshwas who were the prime ministers of the Maratha Empire.
+    </string>
+
+    <string name="emergencynamedemo">Police control room</string>
+    <string name="emergencynumberdemo">020-26122202</string>
+
+    <string name="emergency1number">020-26122202</string>
+    <string name="emergency2number">020-26111103</string>
+    <string name="emergency3number">1098</string>
+    <string name="emergency4number">020-103</string>
+    <string name="emergency5number">020-101</string>
+    <string name="emergency6number">9822498224</string>
+
+    <string name="emergency1name">Police control room</string>
+    <string name="emergency2name">Police helpline for women</string>
+    <string name="emergency3name">Child helpline</string>
+    <string name="emergency4name">Ambulance</string>
+    <string name="emergency5name">Fire</string>
+    <string name="emergency6name">Mumbai Pune Express highway</string>
+
+    <string name="hotel1name">OakWood Residence</string>
+    <string name="hotel2name">Novotel Pune</string>
+    <string name="hotel3name">Marriott Suites</string>
+    <string name="hotel4name">Ibis Pune</string>
+    <string name="hotel5name">Radisson Blu</string>
+    <string name="hotel6name">Hyatt Pune</string>
+    <string name="hotel7name">Royal Orchid Central</string>
+
+    <string name="hotel1place">Naylor Road</string>
+    <string name="hotel2place">Nagar Road</string>
+    <string name="hotel3place">81 Koregaon Park Road</string>
+    <string name="hotel5place">Kharadi</string>
+    <string name="hotel6place">Kalyani Nagar</string>
+
+    <string name="hotel1description">Pune\'s first internationally managed serviced residences that resembles a boutique hotel</string>
+    <string name="hotel2description">8 minutes drive from Pune airport  and offers 223 ergonomically designed rooms catering to various needs of the guest</string>
+    <string name="hotel3description">Symbolizes modern luxury and premium services in a suburban milieu</string>
+    <string name="hotel4description">International economy brand of Accor and has worldwide reference in economy industry</string>
+    <string name="hotel5description">Award winning business hotel where guest experience is worldclass personalized service with modern accomodation</string>
+    <string name="hotel6description">Upscale business hotel with an intimate tranquil serene ambience</string>
+    <string name="hotel7description">One of its kind and a landmark in itself</string>
+
+    <string name="restaurant1name">Chingari</string>
+    <string name="restaurant2name">Spice Kitchen</string>
+    <string name="restaurant3name">Paasha</string>
+    <string name="restaurant4name">Malaka Spice</string>
+    <string name="restaurant5name">Barbeque Nation</string>
+    <string name="restaurant6name">Baan Tao</string>
+
+    <string name="restaurant1place">Raja Bahadur Mill Road</string>
+    <string name="restaurant2place">S.B Road</string>
+    <string name="restaurant4place">5, North Main Road</string>
+    <string name="restaurant5place">Kalyani Nagar</string>
+    <string name="restaurant6place">Nagar Road</string>
+
+    <string name="restaurant1cuisine">Indian, Vegetarian friendly, Vegan options</string>
+    <string name="restaurant2cuisine">Indian, International, Asian, Vegetarian friendly, Vegan options</string>
+    <string name="restaurant3cuisine">Indian, Asian, Vegetarian friendly, Vegan options</string>
+    <string name="restaurant4cuisine">Asian, Vietnamese, Indonesian, Sinagporian, Vegetarian friendly</string>
+    <string name="restaurant5cuisine">Bar grilled indian, barbeque, Vegan options</string>
+    <string name="restaurant6cuisine">Chinese, Asian, Thai, Malaysian, Vegan options</string>
+
+    <string name="visit1name">Dagdusheth Ganpati Temple</string>
+    <string name="visit2name">Darshan Museum</string>
+    <string name="visit3name">ISKCON Temple</string>
+    <string name="visit4name">Sinhagad Fort</string>
+    <string name="visit5name">Sarasbaug Garden</string>
+    <string name="visit6name">Phoenix Market City</string>
+    <string name="visit7name">Malshej Ghats</string>
+
+    <string name="visit1place">Budhvar Peth</string>
+    <string name="visit2place">Sadhu Vaswani Path</string>
+    <string name="visit3place">Katraj-Kondwa Bypass</string>
+    <string name="visit4place">Sinhagad Road</string>
+    <string name="visit5place">Sarasbaug</string>
+    <string name="visit6place">Viman Nagar</string>
+    <string name="visit7place">Karjat</string>
+
+    <string name="visit1description">Sacred and religious sites</string>
+    <string name="visit2description">Speciality Musuems</string>
+    <string name="visit3description">Sacred and Religious Sites</string>
+    <string name="visit4description">Castles</string>
+    <string name="visit5description">The place where the park now stands was once occupied by a small lake</string>
+    <string name="visit6description">Shopping mall developed by Phoenix Mills Limited</string>
+    <string name="visit7description">Mountains</string>
+
+
+</resources>

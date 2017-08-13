@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/name"
+        style="@style/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/smallmargin"
+        tools:text="@string/emergencynamedemo" />
+
+    <TextView
+        android:id="@+id/specific_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin"
+        android:autoLink="phone"
+        android:drawablePadding="@dimen/margin"
+        android:textSize="@dimen/smalltext"
+        tools:text="@string/emergencynumberdemo" />
+
+
+</LinearLayout>
